@@ -1,0 +1,8 @@
+CSS folder eke icons.css eke,
+line number 8, 9, 10 ewwata path set karaganna, eliye tiyena "fonts" folder eka link wena widihata
+
+
+
+me link eke tiyena icons paawichchi karanna puluwan,
+
+https://fontawesome.com/v4.7.0/icons/
